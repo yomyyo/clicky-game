@@ -1,8 +1,8 @@
 import React from "react";
-import HelloBootstrap from "./components/HelloBootstrap";
+import Score from "./components/Score"
 
 function App() {
-  return <HelloBootstrap />;
+  return <Score />;
 }
 
 export default App;

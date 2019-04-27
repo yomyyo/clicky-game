@@ -1,6 +1,6 @@
 import React from "react";
 
-function HelloBootstrap() {
+function Jumbo() {
   return (
     <div className="container">
       <div className="jumbotron">
@@ -14,4 +14,4 @@ function HelloBootstrap() {
   );
 }
 
-export default HelloBootstrap;
+export default Jumbo;
