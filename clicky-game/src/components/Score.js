@@ -19,8 +19,9 @@ class Score extends React.Component {
                 <Jumbo />
                 <div className="card-body">
                     <p className="card-text">Click Count: {this.state.score}</p>
+                    <Picture onClick={this.handleIncrement} />{" "}
                 </div>
-                <Picture onClick={this.handleIncrement}></Picture>
+               
             </div>
         )
     }
