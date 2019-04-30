@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "18.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bulma.jpeg"    
+    },
+    {
+      "id": 3,
+      "image": "gohan.jpg"
+    },
+    {
+      "id": 4,
+      "image": "goku.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "goten.png"
+    },
+    {
+      "id": 6,
+      "image": "krillin.jpg"
+    },
+    {
+      "id": 7,
+      "image": "roshi.jpg"
+    },
+    {
+      "id": 8,
+      "image": "trunks.jpg"
+    },
+    {
+      "id": 9,
+      "image": "vegeta.jpg"
+    }
+  ]
