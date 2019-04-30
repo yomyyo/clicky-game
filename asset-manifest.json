@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.js": "/clicky-game/static/js/main.8cd00b4c.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.8cd00b4c.chunk.js.map",
+    "main.css": "/clicky-game/static/css/main.6f5662b8.chunk.css",
+    "main.js": "/clicky-game/static/js/main.ca323ae7.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.ca323ae7.chunk.js.map",
     "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
     "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/clicky-game/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/clicky-game/static/js/2.65aa1cca.chunk.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/clicky-game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/clicky-game/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.1c602d1d571ff262bb6b9faf42a32e17.js": "/clicky-game/precache-manifest.1c602d1d571ff262bb6b9faf42a32e17.js",
+    "precache-manifest.2e28c531fd152a3f1958821a2704de64.js": "/clicky-game/precache-manifest.2e28c531fd152a3f1958821a2704de64.js",
     "service-worker.js": "/clicky-game/service-worker.js",
-    "static/media/18.jpg": "/clicky-game/static/media/18.6e0acf97.jpg"
+    "static/css/main.6f5662b8.chunk.css.map": "/clicky-game/static/css/main.6f5662b8.chunk.css.map",
+    "static/media/18.jpg": "/clicky-game/static/media/18.6e0acf97.jpg",
+    "static/media/bulma.jpeg": "/clicky-game/static/media/bulma.8a2ceb99.jpeg",
+    "static/media/gohan.jpg": "/clicky-game/static/media/gohan.2534ae67.jpg",
+    "static/media/goku.jpg": "/clicky-game/static/media/goku.9fba8ce6.jpg",
+    "static/media/goten.png": "/clicky-game/static/media/goten.bd07bb3c.png",
+    "static/media/roshi.jpg": "/clicky-game/static/media/roshi.14cfd853.jpg",
+    "static/media/trunks.jpg": "/clicky-game/static/media/trunks.2f99db44.jpg",
+    "static/media/vegeta.jpg": "/clicky-game/static/media/vegeta.5ebc90d9.jpg"
   }
 }
